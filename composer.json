@@ -1,0 +1,7 @@
+{
+    "name": "vendor/train",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
